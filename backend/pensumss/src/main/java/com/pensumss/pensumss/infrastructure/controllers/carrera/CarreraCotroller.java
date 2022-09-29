@@ -1,5 +1,4 @@
-// package com.pensumss.pensumss.intrastructure.controllers.carrera;
-
+package com.pensumss.pensumss.infrastructure.controllers.carrera;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.util.UUID;
